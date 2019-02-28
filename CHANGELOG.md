@@ -3,6 +3,8 @@
 This file is used to list changes made in each version of the Java cookbook.
 
 ## Unreleased
+
+## 3.2.1 - (2019-02-27)
 - Fixed oracle download link for JDK 8 (update to 8u202 from 8u201)
 
 - Added new install flavor "adoptopenjdk" for AdoptOpenJDK's distribution of Java
